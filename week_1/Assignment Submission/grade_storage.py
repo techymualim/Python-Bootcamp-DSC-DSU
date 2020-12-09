@@ -15,6 +15,7 @@ while n != num:
     name=input("Enter Your name:")
     age=int(input("Enter Your Age:"))
     marks=int(input("Enter Your Marks:"))
+    print("\n\n")
     dict1["Roll_no"]=roll_no
     dict1["Name"]=name
     dict1["Age"]=age
