@@ -6,8 +6,10 @@ The size.py takes the path and then prints the files in the path in descending o
 
 ## 2: Program to take 5 students records and then prints the name of highest & lowest scorer
 The like_counter.py takes the files as csv,in the csv their are facebook pages name,then it scraps the likes on the facebook pages then print it back to the csv file.
+#Before
 ![Alt text](1.png "a title")
 ![Alt text](2.png "a title")
+#After
 ![Alt text](3.png "a title")
 
 
