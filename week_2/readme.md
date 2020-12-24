@@ -11,5 +11,6 @@ The like_counter.py takes the files as csv,in the csv their are facebook pages n
 ![Alt text](2.png "a title")
 #After
 ![Alt text](3.png "a title")
+## 3: schools.py is doing scrapping of 50 schools as mentioned in the assignment 3. screenshot is below:
 
-
+![Alt text](5.png "a title")
